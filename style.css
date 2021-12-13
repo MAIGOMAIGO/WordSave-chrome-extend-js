@@ -1,0 +1,29 @@
+body{
+    background: #fff;
+    position: absolute;
+    top: 50px;
+    width: 100%;
+}
+
+#seo_replace_str {
+    position:fixed;
+    z-index:2147483647;
+    top:0px; left:0px;
+    background: linear-gradient(to bottom, rgba(221, 233, 242, 1) 0%,rgba(196, 216, 230, 1) 100%);
+    width:100%;
+    padding:10px 10px 10px 10px; text-align:center;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.3);
+}
+
+#seo_replace_str *{
+    display:inline-block;
+    padding: 0;
+}
+
+#seo_replace_str input{
+    width:150px;
+}
+
+#delete{
+    width:50px !important;
+}
