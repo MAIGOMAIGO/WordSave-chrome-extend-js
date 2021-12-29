@@ -2,7 +2,7 @@
     "name": "ReadWrite",
     "version": "0.1",
     "manifest_version": 2,
-    "description": "ReadWrite",
+    "description": "Read Load Write",
     "content_scripts": [
         {
             "matches": ["<all_urls>"],
